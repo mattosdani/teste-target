@@ -1,0 +1,25 @@
+Colocamos o ponto de referência em Ribeirão Preto
+
+Carro
+x1 = v1.t
+
+Caminhão
+x2 = 100km - v2.t
+
+Tempo de viagem do caminhão sem os pedágios:
+t = 100km/80km/h = 1,25h ou 0,17h
+
+Tempo do caminhão com os pedágios:
+1,25 + 0,17 = 1,42h
+
+t = 100km/1,42h = 70,4km/h
+
+Quando irão se encontrar:
+
+x = v1.100km/v1+v2
+
+x = 110km/h.100km / 110km/h+70,4km/h
+
+x = 70km
+
+Ambos se encontrarão a 80km de Ribeirão Preto
